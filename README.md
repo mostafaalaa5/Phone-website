@@ -11,7 +11,8 @@ This project is a website that provides detailed information about various types
   - User-Friendly Interface: Easy-to-navigate design for browsing phone information.
   - Responsive Design: Optimized for both desktop and mobile devices.
 
+
 # Technologies Used:
-  -Frontend: HTML, CSS, JavaScript.
-  -Backend: (e.g., Node.js, Flask, Django) [replace with actual tech].
-  -Database: (e.g., MongoDB, MySQL) [replace with actual tech].
+  - Frontend: HTML, CSS, JavaScript.
+  - Backend: (e.g., Node.js, Flask, Django) [replace with actual tech].
+  - Database: (e.g., MongoDB, MySQL) [replace with actual tech].
